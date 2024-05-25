@@ -13,7 +13,7 @@ How to run locally -
 
 1. Clone the repository locally on your machine.
 2. There are 3 backend services that you will need to run the tool locally.
-3. run "cd deploy" and "node dist/index.js" to run the deployment service.
+3. run "bash cd deploy" and "node dist/index.js" to run the deployment service.
 4. run "cd upload" and "node dist/index.js" to run the upload server.
 5. run "cd request-handler" and "node dist/index.js" to run the request-handling service.
 6. Finally, run "cd frontend" and "npm run dev" to run the frontend on localhost:5173
