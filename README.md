@@ -5,7 +5,7 @@ Deploy your **React and Next.js** projects effortlessly with our One-Click Websi
 
 # Getting Started
 
-The project uses cloudflare to upload files. In order to use it, you'll need to create a cloudflare account and create an R2 bucket. Replace the credentials of this bucket with the ones provided in the project. 
+The project uses cloudflare to upload files. In order to use it, you'll need to create a cloudflare account and create an R2 bucket. Replace the Cloudflare credentials of this project with your own cloudflare R2 bucket credentials.
 
 You also need to have a redis server running locally on your system. If you're  using windows, you can download redis from <a href="https://github.com/tporadowski/redis/releases"> here </a>
 
